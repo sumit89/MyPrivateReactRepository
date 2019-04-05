@@ -9,7 +9,9 @@ class Field extends React.Component {
 
     return (
       <div className="ui field">
+        {/* <label>{this.context}</label> */}
         <label>{text}</label>
+        {/* <label>Name</label> */}
         <input />
       </div>
     );
@@ -17,3 +19,4 @@ class Field extends React.Component {
 }
 
 export default Field;
+  
