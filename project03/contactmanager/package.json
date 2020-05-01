@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sumit89.github.io/MyPrivateReactRepository/project03/contactmanager",
+  "homepage": "http://sumit89.github.io/contactmanager",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
