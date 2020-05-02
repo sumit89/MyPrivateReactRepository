@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MyPrivateReactRepository/static/css/main.281a20d3.chunk.css",
-    "main.js": "/MyPrivateReactRepository/static/js/main.1afdf64c.chunk.js",
-    "main.js.map": "/MyPrivateReactRepository/static/js/main.1afdf64c.chunk.js.map",
-    "runtime-main.js": "/MyPrivateReactRepository/static/js/runtime-main.3d499b92.js",
-    "runtime-main.js.map": "/MyPrivateReactRepository/static/js/runtime-main.3d499b92.js.map",
-    "static/css/2.69121389.chunk.css": "/MyPrivateReactRepository/static/css/2.69121389.chunk.css",
-    "static/js/2.9345ad6a.chunk.js": "/MyPrivateReactRepository/static/js/2.9345ad6a.chunk.js",
-    "static/js/2.9345ad6a.chunk.js.map": "/MyPrivateReactRepository/static/js/2.9345ad6a.chunk.js.map",
-    "index.html": "/MyPrivateReactRepository/index.html",
-    "precache-manifest.d1ccd08e3cf8b468c0f28bf1695969f8.js": "/MyPrivateReactRepository/precache-manifest.d1ccd08e3cf8b468c0f28bf1695969f8.js",
-    "service-worker.js": "/MyPrivateReactRepository/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/MyPrivateReactRepository/static/css/2.69121389.chunk.css.map",
-    "static/css/main.281a20d3.chunk.css.map": "/MyPrivateReactRepository/static/css/main.281a20d3.chunk.css.map",
-    "static/js/2.9345ad6a.chunk.js.LICENSE.txt": "/MyPrivateReactRepository/static/js/2.9345ad6a.chunk.js.LICENSE.txt"
+    "main.css": "/MyPrivateReactRepository/contactmanagercontext/static/css/main.281a20d3.chunk.css",
+    "main.js": "/MyPrivateReactRepository/contactmanagercontext/static/js/main.2faf22f5.chunk.js",
+    "main.js.map": "/MyPrivateReactRepository/contactmanagercontext/static/js/main.2faf22f5.chunk.js.map",
+    "runtime-main.js": "/MyPrivateReactRepository/contactmanagercontext/static/js/runtime-main.7920aced.js",
+    "runtime-main.js.map": "/MyPrivateReactRepository/contactmanagercontext/static/js/runtime-main.7920aced.js.map",
+    "static/css/2.69121389.chunk.css": "/MyPrivateReactRepository/contactmanagercontext/static/css/2.69121389.chunk.css",
+    "static/js/2.9345ad6a.chunk.js": "/MyPrivateReactRepository/contactmanagercontext/static/js/2.9345ad6a.chunk.js",
+    "static/js/2.9345ad6a.chunk.js.map": "/MyPrivateReactRepository/contactmanagercontext/static/js/2.9345ad6a.chunk.js.map",
+    "index.html": "/MyPrivateReactRepository/contactmanagercontext/index.html",
+    "precache-manifest.a7be35fe8c3a133a4b7baed554aa515d.js": "/MyPrivateReactRepository/contactmanagercontext/precache-manifest.a7be35fe8c3a133a4b7baed554aa515d.js",
+    "service-worker.js": "/MyPrivateReactRepository/contactmanagercontext/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/MyPrivateReactRepository/contactmanagercontext/static/css/2.69121389.chunk.css.map",
+    "static/css/main.281a20d3.chunk.css.map": "/MyPrivateReactRepository/contactmanagercontext/static/css/main.281a20d3.chunk.css.map",
+    "static/js/2.9345ad6a.chunk.js.LICENSE.txt": "/MyPrivateReactRepository/contactmanagercontext/static/js/2.9345ad6a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d499b92.js",
+    "static/js/runtime-main.7920aced.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.9345ad6a.chunk.js",
     "static/css/main.281a20d3.chunk.css",
-    "static/js/main.1afdf64c.chunk.js"
+    "static/js/main.2faf22f5.chunk.js"
   ]
 }
